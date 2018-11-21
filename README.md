@@ -1,4 +1,4 @@
-### This project demonstrates the use of 'return null' to show/hide components (same as tab functions), it also uses a callback function from child to parent
+### This project demonstrates the use of 'return null' to show/hide components (same as tab functions), it also demonstrates a callback function from child to parent
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app); i.e. `npx creat-react-app <app_name>`
 
